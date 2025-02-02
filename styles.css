@@ -1,0 +1,105 @@
+/* Global Styles */
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #111;
+    color: #fff;
+}
+
+/* Hero Section */
+.hero {
+    background: linear-gradient(45deg, #ff0099, #493240);
+    text-align: center;
+    padding: 100px 20px;
+}
+
+.hero h1 {
+    font-size: 48px;
+    margin: 0;
+}
+
+.hero p {
+    font-size: 18px;
+    margin: 10px 0 20px;
+}
+
+.btn {
+    display: inline-block;
+    background: #27ae60;
+    color: #fff;
+    padding: 12px 24px;
+    font-size: 18px;
+    text-decoration: none;
+    border-radius: 6px;
+    transition: 0.3s;
+}
+
+.btn:hover {
+    background: #219150;
+}
+
+/* Features Section */
+.features {
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.feature-grid {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.feature-item {
+    background: #222;
+    padding: 20px;
+    border-radius: 10px;
+    width: 250px;
+    text-align: center;
+}
+
+.feature-item i {
+    font-size: 40px;
+    margin-bottom: 10px;
+    color: #ff0099;
+}
+
+/* Requirements */
+.requirements {
+    padding: 60px 20px;
+    text-align: center;
+}
+
+table {
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+    background: #222;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+th, td {
+    padding: 12px;
+    border: 1px solid #333;
+}
+
+th {
+    background: #ff0099;
+}
+
+/* Disclaimer */
+.disclaimer {
+    background: #222;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+/* Footer */
+footer {
+    background: #000;
+    padding: 20px;
+    text-align: center;
+}
